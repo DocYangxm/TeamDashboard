@@ -93,9 +93,9 @@ XML文件在功能模块执行中的输入和输入过程：
 
 **由`teams.xml`会生成以下三个文件**
 
-* **`allocatedTeams.xml`**用于Manage Team功能
-* **`allocatedTeams_team.xml`**用于View Team List功能
-* **`allocatedTeams_assessor.xml`**用于View Assessor List功能
+* `allocatedTeams.xml`用于Manage Team功能
+* `allocatedTeams_team.xml`用于View Team List功能
+* `allocatedTeams_assessor.xml`用于View Assessor List功能
 
 ***
 
